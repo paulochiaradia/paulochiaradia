@@ -6,19 +6,19 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Paulo Chiaradia! A passionate back-end student from Brazil.
+  Hi 👋, I'm Paulo Chiaradia! A passionate microcontrollers and data analysis student from Brazil.
 
   - 🌱 I’m currently studying Computer Engeneering at UNIFESP 
 
-  - 🔭 I am looking for my first dev job opportunity. My dream is to one day work with golang.
+  - 🔭 I am looking for my first tech job opportunity.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 23 years old, currently living in Brazil. I have experience with Go, Typescript, C, SQL and Docker. 
-  - ⚡ I currently work as an IT assistant, always looking to improve my experience in backend development, process automation, and API creation, mainly using Golang. I'm passionate about solving complex problems and optimizing workflows. My profile is focused on continuous learning and implementing efficient solutions for technical challenges.
+  - 💬 I am 24 years old, currently living in Brazil. I have experience with Go, C, SQL, Power BI, ESP32, Arduino, Python and R. 
+  - ⚡ I currently work as an IT assistant with a growing interest in data analysis and the development of interactive dashboards that turn information into strategic insights. I’m exploring solutions that involve data collection through microcontrollers, integrating sensors and IoT devices for monitoring and automation. My profile is driven by continuous learning and applying technology to solve real-world challenges with intelligence and efficiency.
 </details>
 
 ###
